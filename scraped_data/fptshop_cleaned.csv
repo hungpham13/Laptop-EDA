@@ -1,0 +1,4 @@
+P/N,rating,rating_count,comment_count,Brand,Series,price,cpu_brand,cpu_code,RAM,RAM_upgradable,GPU,battery_wh,storage_type,storage_size,storage_upgradable,screen_size,display_resolution,display_rating,screen_technology,weight,length,width,height,OS,surface_material,release_year,hdmi,jack,lan,type_c,usb,sd,keyboard_light
+096VN,5.0,1.0,53.0,MSI,Gaming Katana GF76 11UC 096VN i7 11800H,29399000,Intel,11800H,8,Yes,NVIDIA® GeForce® RTX3050 4GB,150 W,SSD,512,Yes,17.3,1920 x 1080,144,--,2.6,397,275,25,Windows 10,ABS plastic,,Yes,Yes,Yes,Yes,Yes,No,No
+,,,,MSI,Stealth Gaming GS66 10SE-407VN/i7-10750H,46990000,Intel,10750H,16,No,GeForce RTX 2060 6GB	,,SSD,512,No,15.6,,,,2.1,,,,,,,,,,,,,No
+1A2F1AV,,,,HP,ZBook Firefly 14 G8 i5 1135G7/1A2F1AV,33899000,Intel,1135G7,16,No,Intel Iris Xe Graphics,,,512,No,14.0,,,,1.35,,,,,,,,,,,,,No
