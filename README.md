@@ -24,7 +24,20 @@ analytic tasks.
         - e.g.: Programming Task 1- data scraping from source A: member1 Mr X 40% ; member 2 Mrs Y 60% (no more than 2 members /task for programming tasks)...).
         - e.g.: Analytic Task 1– proposing our subject: member1 Mr X 40% ; member 2 Mrs Y 30% ; member 2 Mr Z 30% (can be more than 2 members /task for analytic
     tasks)...)
+## Materials
+Libraries
+1. Scrapy, Selenium, BeautifulSoup – Data scraping
+2. Numpy, Pandas, Seaborn – Data analysis and visualization 
 
+[Kaggle detailed EDA](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python)
+
+[Github DS project](https://github.com/veb-101/Data-Science-Projects)
+
+[Havard Data Science Course](http://cs109.github.io/2015/pages/videos.html)
+
+[Web Scraping with Python (Book)](https://vn1lib.org/book/3515980/5d50aa)
+
+[Web Scraping on Kaggle](https://www.kaggle.com/getting-started?search=web+scraping)
 ## Final assignment (29th of December, 2021)
     
 Create 1 directory named with group number, upload on the dedicated assignment on Teams:
