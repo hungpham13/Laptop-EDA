@@ -6,12 +6,23 @@
 **[Assginment for each member - On GG Sheet](https://docs.google.com/spreadsheets/d/11ldCYnPJwYuMKBba6jX7qPYnYtekAYjR9YvORww76hE/edit#)**
 
 ## Things TO WRITE IN REPORT
-- Summary of the subject .
-- Description of the data scraping process (do not hesitate to use diagrams as illustrations)
-- Description of the data cleaning process (RAW data format, cleaning/transforming techniques, CLEANED data structure).
+- Summary of the subject. (Lập)
+- Description of the data scraping process (do not hesitate to use diagrams as illustrations) (Nhật)
+- Description of the data cleaning process (RAW data format, cleaning/transforming techniques, CLEANED data structure). (Hưng)
+- EDA (trước khi phân tích kết quả, nêu 1,2 lý do chọn dạng biểu đồ/ kĩ thuật EDA đó)
+    - Descriptive (explore data): Lập
+    - Numeric analysis: Hưng
+    - Categorical: Lập
+    - 10% analysis: Nhật
+    - Conclusion: 3 người chốt vào tối nay/ tối mai
+- Slide: Nhật
+
 - Specify exploratory variables and compute some basic statistics/visualizations.
+
 - Choosing at least 2-3 EDA techniques for explaining your data (see Chapter 4, e.g. Pearson’s correlation vs Chi2 coefficient). Do not hesitate to use techniques that we studied less extensively in this course, e.g. PCA. Explain why you chose these techniques (why do you believe they should be effective on your problem, your cleaned dataset)
+
 - Choose at least 1-2 more advanced visualization techniques for displaying your data (see Chapter 5, e.g. Pearson’s correlation vs Chi2 coefficient). Do not hesitate to use visualization techniques that we studied less extensively in this course. Explain why you chose these techniques (why do you believe they fit the characteristics of your problem)
+
 - Give more complex insights from the data, based on your EDA analysis, and visualization.
 
 - Detailed contribution of each member: 
