@@ -5,6 +5,8 @@
 
 [Report](https://docs.google.com/document/d/1pgfdk6Js1mmt6_7cTtTeY86atei09SNQVju77IIJnic/edit?usp=sharing)
 
+[Slide](https://docs.google.com/presentation/d/1OHtN070BcPEec0bYzY2rYnKLaetMIspm/edit#slide=id.p6)
+
 **[Assginment for each member - On GG Sheet](https://docs.google.com/spreadsheets/d/11ldCYnPJwYuMKBba6jX7qPYnYtekAYjR9YvORww76hE/edit#)**
 
 ## Things TO WRITE IN REPORT
